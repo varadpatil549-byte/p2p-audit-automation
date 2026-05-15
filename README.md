@@ -156,7 +156,7 @@ docs/ → project documentation
 
 🔗 \*\*View Full Project Documentation (Notion):\*\*
 
-PASTE\_YOUR\_NOTION\_LINK\_HERE
+https://www.notion.so/Enterprise-P2P-Audit-Sampling-Automation-361b3402f29080c98e5fe5f0c2390d83?source=copy\_link
 
 
 
